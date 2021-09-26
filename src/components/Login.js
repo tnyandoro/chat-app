@@ -8,7 +8,7 @@ const Login = () => {
             <h2>Welcome to RadicalChat</h2>
             <div className="login-button goggle">
 
-              
+              <GoogleOutlined /> Sign In with Google
             </div>
           </div>
         </div>
