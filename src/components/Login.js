@@ -13,7 +13,7 @@ const Login = () => {
             <br /> <br /> 
             <div className="login-button facebook">
 
-              <FaceOutlined /> Sign In with Facebook
+              <FacebookOutlined /> Sign In with Facebook
             </div>
           </div>
         </div>
