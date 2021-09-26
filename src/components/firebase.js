@@ -8,4 +8,4 @@ export const auth = firebase.initializeApp ({
   storageBucket: "radicalchat-44061.appspot.com",
   messagingSenderId: "365459048590",
   appId: "1:365459048590:web:007e49ccff84896a4861df"
-});
+}).auth();
